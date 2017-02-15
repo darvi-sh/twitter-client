@@ -1,1 +1,2 @@
-# Responsive React Twitter Dashboard, Full responsive UI only
+# Responsive Twitter Dashboard
+Responsive UI only
